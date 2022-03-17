@@ -643,5 +643,6 @@ This software has been developed with lots of coffee, buy me one more cup to kee
 
 [Artem Sapegin](http://sapegin.me/), a frontend engineer at [Omio](https://omio.com/) and the creator of [React Styleguidist](https://react-styleguidist.js.org/). I also write about frontend at [my blog](https://blog.sapegin.me/).
 
+test2
 CC0 1.0 Universal license, see the included [License.md](/License.md) file.
 test
